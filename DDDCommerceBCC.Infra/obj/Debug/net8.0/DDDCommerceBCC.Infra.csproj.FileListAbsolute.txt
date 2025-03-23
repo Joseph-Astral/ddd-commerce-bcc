@@ -1,0 +1,15 @@
+C:\Users\Aula\source\repos\DDDCommerceBCC\DDDCommerceBCC.Infra\bin\Debug\net8.0\DDDCommerceBCC.Infra.deps.json
+C:\Users\Aula\source\repos\DDDCommerceBCC\DDDCommerceBCC.Infra\bin\Debug\net8.0\DDDCommerceBCC.Infra.dll
+C:\Users\Aula\source\repos\DDDCommerceBCC\DDDCommerceBCC.Infra\bin\Debug\net8.0\DDDCommerceBCC.Infra.pdb
+C:\Users\Aula\source\repos\DDDCommerceBCC\DDDCommerceBCC.Infra\bin\Debug\net8.0\DDDCommerceBCC.Domain.dll
+C:\Users\Aula\source\repos\DDDCommerceBCC\DDDCommerceBCC.Infra\bin\Debug\net8.0\DDDCommerceBCC.Domain.pdb
+C:\Users\Aula\source\repos\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDCommerceBCC.Infra.csproj.AssemblyReference.cache
+C:\Users\Aula\source\repos\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDCommerceBCC.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\source\repos\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDCommerceBCC.Infra.AssemblyInfoInputs.cache
+C:\Users\Aula\source\repos\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDCommerceBCC.Infra.AssemblyInfo.cs
+C:\Users\Aula\source\repos\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDCommerceBCC.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Aula\source\repos\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDComme.3CDF511B.Up2Date
+C:\Users\Aula\source\repos\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDCommerceBCC.Infra.dll
+C:\Users\Aula\source\repos\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\refint\DDDCommerceBCC.Infra.dll
+C:\Users\Aula\source\repos\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\DDDCommerceBCC.Infra.pdb
+C:\Users\Aula\source\repos\DDDCommerceBCC\DDDCommerceBCC.Infra\obj\Debug\net8.0\ref\DDDCommerceBCC.Infra.dll
